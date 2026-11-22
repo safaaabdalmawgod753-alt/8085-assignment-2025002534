@@ -1,8 +1,8 @@
 # Intel 8085 Assembly Assignment
 
-- **Name:** [اكتب اسمك الكامل هنا]
+- **Name:** mohamed saeed 
 - **Student ID:** 2025002534
-- **Section/Group:** [اكتب السكشن أو الجروب هنا]
+- **Section/Group:** 4
 
 ## Files Included
 - `q1_add_carry.asm`: 8-Bit Addition with Carry
